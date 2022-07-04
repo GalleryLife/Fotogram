@@ -1,4 +1,4 @@
-<h1>ToDo App in React.js</h1>
+<h1>Fotogram</h1>
 
 <h2>To get the frontend running locally:</h2>
 
